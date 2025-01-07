@@ -1,7 +1,7 @@
 ## About cub3d
 
 <br>
-Cub3d is a graphics project for 42 Network in Barcelona, aimed at mastering raycasting logic in C.
+Cub3d is a simple graphics project for 42 Network in Barcelona, aimed at mastering raycasting logic in C.
 
 Check it out!
 
